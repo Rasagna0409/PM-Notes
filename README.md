@@ -12,4 +12,5 @@
 4. Sprint Review
 5. Sprint Retrospective
 
+### **Scrum Cycle**
 ![ScrumProcess](Scrumprocess.png)
