@@ -12,4 +12,4 @@
 4. Sprint Review
 5. Sprint Retrospective
 
-![ScrumProcess](Scumprocess.png)
+![ScrumProcess](Scrumprocess.png)
